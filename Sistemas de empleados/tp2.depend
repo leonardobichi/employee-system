@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1589527287 source:c:\users\coca colaaaa\desktop\facultad\u.t.n\carrera\prog y labo 1\laboratorio 1\trabajos practicos resueltos\tp2\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1589526582 c:\users\coca colaaaa\desktop\facultad\u.t.n\carrera\prog y labo 1\laboratorio 1\trabajos practicos resueltos\tp2\tp2\arrayemployees.h
+
+1589150377 c:\users\coca colaaaa\desktop\facultad\u.t.n\carrera\prog y labo 1\laboratorio 1\trabajos practicos resueltos\tp2\tp2\misfunciones.h
+
+1589527362 source:c:\users\coca colaaaa\desktop\facultad\u.t.n\carrera\prog y labo 1\laboratorio 1\trabajos practicos resueltos\tp2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1589150377 source:c:\users\coca colaaaa\desktop\facultad\u.t.n\carrera\prog y labo 1\laboratorio 1\trabajos practicos resueltos\tp2\tp2\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"misFunciones.h"
+
+1589524257 c:\users\coca colaaaa\desktop\facultad\u.t.n\carrera\prog y labo 1\laboratorio 1\trabajos practicos resueltos\tp2\tp2\input.h
+
+1589524257 source:c:\users\coca colaaaa\desktop\facultad\u.t.n\carrera\prog y labo 1\laboratorio 1\trabajos practicos resueltos\tp2\tp2\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"input.h"
+
+1589526582 c:\users\coca colaaaa\desktop\facultad\u.t.n\carrera\prog y labo 1\laboratorio 1\trabajos practicos resueltos\tp2\tp2\utn.h
+
+1589527287 source:c:\users\coca colaaaa\desktop\facultad\u.t.n\carrera\prog y labo 1\laboratorio 1\trabajos practicos resueltos\tp2\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+
+1589527287 source:c:\users\coca colaaaa\desktop\facultad\u.t.n\carrera\prog y labo 1\laboratorio 1\trabajos practicos resueltos\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1589526582 c:\users\coca colaaaa\desktop\facultad\u.t.n\carrera\prog y labo 1\laboratorio 1\trabajos practicos resueltos\tp2\arrayemployees.h
+
+1589526582 c:\users\coca colaaaa\desktop\facultad\u.t.n\carrera\prog y labo 1\laboratorio 1\trabajos practicos resueltos\tp2\utn.h
+
+1589527362 source:c:\users\coca colaaaa\desktop\facultad\u.t.n\carrera\prog y labo 1\laboratorio 1\trabajos practicos resueltos\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1589527287 source:c:\users\coca colaaaa\desktop\facultad\u.t.n\carrera\prog y labo 1\laboratorio 1\trabajos practicos resueltos\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+
